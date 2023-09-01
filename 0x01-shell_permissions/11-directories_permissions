@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x dir0, u+x dir1, u+x dir2
+chmod u+rx dir0, u+rx dir1, u+rx dir2
