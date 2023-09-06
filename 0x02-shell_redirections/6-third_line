@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l (3) | less /0x02-shell_redirections/iacta
+echo "as he led his army across the Rubicon river in Northern Italy. With this step," > 0x02-shell_redirections/iacta
