@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l (3) | less iacta
+ls -l (3) | less /0x02-shell_redirections/iacta
