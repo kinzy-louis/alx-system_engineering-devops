@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l (3) | less
+ls -l (3) | less iacta
